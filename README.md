@@ -1,4 +1,4 @@
-# KPD_2020
+# KPD_2021
 This repository contains a stand-alone version of the code used to analyze the transition in sniping behaviour among high-frequency traders.
 
 It produces the solution in which probabilistic sniping is more profitable.  In order to turn the solution into  a  viable  strategy  for  the  repeated  game,  we  show  how  compliance can be monitored through the use of sequential statistical testing.
